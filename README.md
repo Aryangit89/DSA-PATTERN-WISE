@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
