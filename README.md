@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -36,10 +37,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
