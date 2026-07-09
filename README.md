@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
