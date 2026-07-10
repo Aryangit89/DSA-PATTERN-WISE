@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
