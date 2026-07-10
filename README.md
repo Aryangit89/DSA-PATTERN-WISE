@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
