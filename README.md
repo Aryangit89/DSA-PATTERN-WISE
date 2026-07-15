@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0007-reverse-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
