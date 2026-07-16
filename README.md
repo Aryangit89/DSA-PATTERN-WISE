@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
