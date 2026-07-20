@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0724-find-pivot-index) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0974-subarray-sums-divisible-by-k) |
