@@ -4,7 +4,7 @@ public:
         int n=height.size();
         int low=0;
         int high=n-1;
-        int area=INT_MIN;
+        int area=0;
         int dis=0;
         int h=0;
         int currarea=0;
