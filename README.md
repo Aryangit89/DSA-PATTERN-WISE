@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
