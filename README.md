@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0844-backspace-string-compare) |
+| [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0925-long-pressed-name) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
+| [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Counting
+|  |
+| ------- |
+| [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 <!---LeetCode Topics End-->
