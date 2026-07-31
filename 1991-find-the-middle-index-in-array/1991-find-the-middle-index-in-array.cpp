@@ -7,15 +7,14 @@ public:
         int sum=0;
         for(auto x:nums)
         sum=sum+x;
-        int i=0;
-        right=sum-nums[i]-left;
-        if(right==left)
-        return i;
-        for(int i=1;i<n;i++){
-            left=left+nums[i-1];
-            right=sum-nums[i]-left;
+        
+        for(int i=0;i<n;i++){
+             right=sum-nums[i]-left;
+             
             if(right==left)
             return i;
+            left=left+nums[i];
+           
         }
         return -1;
     }
