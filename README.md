@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
