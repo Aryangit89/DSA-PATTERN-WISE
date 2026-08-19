@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
