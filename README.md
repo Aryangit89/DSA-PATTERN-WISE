@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0925-long-pressed-name) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
