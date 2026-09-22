@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0844-backspace-string-compare) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -209,4 +213,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
