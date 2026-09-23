@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0525-contiguous-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
