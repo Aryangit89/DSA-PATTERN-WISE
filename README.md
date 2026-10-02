@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0268-missing-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/3411-maximum-subarray-with-equal-products) |
