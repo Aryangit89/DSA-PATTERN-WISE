@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0925-long-pressed-name) |
+| [1189-maximum-number-of-balloons](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1189-maximum-number-of-balloons) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0387-first-unique-character-in-a-string) |
 | [0923-3sum-with-multiplicity](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/0923-3sum-with-multiplicity) |
+| [1189-maximum-number-of-balloons](https://github.com/Aryangit89/DSA-PATTERN-WISE/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |
